@@ -111,6 +111,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Local files
+scripts.txt
+
 # Spyder project settings
 .spyderproject
 .spyproject
